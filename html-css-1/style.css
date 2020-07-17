@@ -10,7 +10,6 @@ body {
   min-width: 100vw;
   flex-direction: column;
   margin: 0;
-
 }
 
 header {
@@ -22,7 +21,6 @@ header {
   justify-content: space-between;
   color: white;
   padding: 0 75px;
-
 }
 
 .container {
